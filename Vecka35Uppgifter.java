@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class InputCheck {
+public class Vecka35Uppgifter {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
