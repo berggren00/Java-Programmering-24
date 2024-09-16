@@ -1,12 +1,12 @@
-package exercises.standard_exercises;
+package UppgifterPersonlig;
 
-public class Book { 
+ class Book { 
     private String title;
     private String author;
     private int year;
+
+
     public Book(){
         title = "Default title";
         author = "Default author";
         year = 30;
-    }
-}
